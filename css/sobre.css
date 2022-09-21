@@ -1,0 +1,57 @@
+.principal{display: flex;
+    font-size: 40px;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+      
+    }
+ .texto1{display: flex;
+    justify-content: center;
+    font-family: "Audiowide", sans-serif;
+    width: 800px;
+    background-color: rgb(124, 115, 89);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: rgb(203, 216, 19);
+    
+ }   
+
+.secundario{display: flex;
+    justify-content: space-around;
+    width: 800px;
+    background-color: rgb(223, 219, 25);
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+
+    }
+body{background-image: url(https://i0.statig.com.br/bancodeimagens/4p/x1/fm/4px1fm5zaigwz5jk53y201t3w.jpg);
+    background-size: cover;}
+
+.fotos1{display: flex;
+    justify-content: space-around;
+    margin-top: 50px;;
+    }
+
+.imagem1{border: 2px solid black;
+    border-radius: 50px;}
+
+.imagem2{border: 2px solid black;
+    border-radius: 50px;}
+
+.imagem3{border: 2px solid black;
+    border-radius: 50px;}
+
+.fotos2{display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    }
+
+    .imagem4{border: 2px solid black;
+    border-radius: 50px;}
+
+    .imagem5{border: 2px solid black;
+    border-radius: 50px;}
+    
+    .imagem6{border: 2px solid black;
+    border-radius: 50px;}
+   
